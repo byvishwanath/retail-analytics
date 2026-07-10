@@ -1,16 +1,6 @@
 # retail-analytics
 An end-to-end data analytics project analyzing customer shopping behavior using Python (Pandas), MySQL and Power BI.
 
-# 📊 Customer Shopping Behavior Analysis
-
-## Overview
-
-This project demonstrates an end-to-end **Data Analytics workflow**, starting from raw data to business insights. The project includes data loading, cleaning, exploratory data analysis (EDA), SQL-based analysis, interactive Power BI dashboard creation, and final documentation through a report and presentation.
-
-The goal is to transform raw customer shopping data into meaningful insights that can support better business decisions.
-
----
-
 ## Project Workflow
 
 ### 1. Data Loading
