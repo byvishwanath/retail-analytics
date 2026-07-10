@@ -18,8 +18,8 @@ An end-to-end data analytics project analyzing customer shopping behavior using 
 ### 3. SQL Analysis
 
 * Imported cleaned data into MySQL.
-* Wrote SQL queries to answer business questions and run queries to extract insights on customer segments, loyalty, and purchase drivers.
-* 
+* Wrote SQL queries to answer business questions and run queries to extract insights on customer segments, loyalty.
+  
 ### 4. Power BI Dashboard
 
 Developed an interactive dashboard to visualize:
