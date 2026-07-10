@@ -36,21 +36,20 @@ Developed an interactive dashboard to visualize:
 ## Project Structure
 
 ```text
-Customer-Shopping-Behavior-Analysis/
+retail-analytics/
 │
 ├── Dataset/
 ├── Python/
-│   ├── Data_Cleaning.ipynb
-│   ├── EDA.ipynb
-│
+│   ├── customer_Analysis.ipynb
+│   
 ├── SQL/
-│   ├── Queries.sql
+│   ├── customer_trends_script.sql
 │
 ├── PowerBI/
-│   ├── Dashboard.pbix
+│   ├── customer_trends_dashboard.pbix
 │
 ├── Report/
-│   ├── Project_Report.pdf
+│   ├── project-report.pdf
 │
 └── README.md
 ```
