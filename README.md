@@ -11,32 +11,6 @@ The goal is to transform raw customer shopping data into meaningful insights tha
 
 ---
 
-## Dataset
-
-The dataset contains customer shopping information, including purchase details, demographics, payment methods, product categories, and other relevant attributes.
-
-Key tasks performed on the dataset include:
-
-* Data loading using Python
-* Data cleaning and preprocessing
-* Handling missing values
-* Removing duplicates
-* Data transformation
-* Exploratory Data Analysis (EDA)
-
----
-
-## Tools & Technologies
-
-* **Python**
-
-  * Pandas
-* **MySQL**
-* **Power BI**
-* **Jupyter Notebook**
-
----
-
 ## Project Workflow
 
 ### 1. Data Loading
@@ -66,21 +40,6 @@ Developed an interactive dashboard to visualize:
 * Payment Method Analysis
 * Shopping Trends
 * Key Performance Indicators (KPIs)
-
-
----
-
-
-## Results
-
-Some of the key outcomes of the project include:
-
-* Clean and structured dataset ready for analysis.
-* Identification of customer purchasing patterns.
-* Insights into popular product categories.
-* Analysis of preferred payment methods.
-* Interactive dashboard for decision-making.
-* Professional report and presentation for stakeholders.
 
 ---
 
@@ -119,7 +78,7 @@ git clone https://github.com/byvishwanath/retail-analytics.git
 3. Install the required Python libraries.
 
 ```bash
-pip install pandas numpy matplotlib seaborn
+pip install pandas 
 ```
 
 4. Run the notebooks in order:
