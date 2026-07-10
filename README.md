@@ -31,14 +31,9 @@ Key tasks performed on the dataset include:
 * **Python**
 
   * Pandas
-  * NumPy
-  * Matplotlib
-  * Seaborn
 * **MySQL**
 * **Power BI**
 * **Jupyter Notebook**
-
-
 
 ---
 
@@ -49,29 +44,19 @@ Key tasks performed on the dataset include:
 * Imported the dataset into Python.
 * Examined data structure and basic statistics.
 
-### 2. Data Cleaning
+### 2. Data Cleaning, Exploratory Data Analysis (EDA)
 
 * Removed missing values.
 * Checked and removed duplicate records.
 * Corrected data types.
 * Prepared the dataset for analysis.
-
-### 3. Exploratory Data Analysis (EDA)
-
-* Univariate analysis
-* Bivariate analysis
-* Correlation analysis
-* Customer behavior analysis
-* Purchase trend analysis
-* Data visualization using charts
-
-### 4. SQL Analysis
+  
+### 3. SQL Analysis
 
 * Imported cleaned data into MySQL.
-* Wrote SQL queries to answer business questions.
-* Performed filtering, grouping, aggregation, joins, and ranking.
-
-### 5. Power BI Dashboard
+* Wrote SQL queries to answer business questions and run queries to extract insights on customer segments, loyalty, and purchase drivers.
+* 
+### 4. Power BI Dashboard
 
 Developed an interactive dashboard to visualize:
 
@@ -85,20 +70,6 @@ Developed an interactive dashboard to visualize:
 
 ---
 
-## Dashboard
-
-The Power BI dashboard provides an interactive view of the dataset with filters and visualizations that help users explore customer shopping behavior and identify important business trends.
-
-Example dashboard sections:
-
-* Sales Summary
-* Customer Distribution
-* Product Categories
-* Payment Methods
-* Shopping Trends
-* KPIs
-
----
 
 ## Results
 
@@ -135,7 +106,52 @@ Customer-Shopping-Behavior-Analysis/
 └── README.md
 ```
 
+## How to Run
 
+1. Clone this repository.
+
+```bash
+git clone https://github.com/byvishwanath/retail-analytics.git
+```
+
+2. Open the Jupyter Notebook.
+
+3. Install the required Python libraries.
+
+```bash
+pip install pandas numpy matplotlib seaborn
+```
+
+4. Run the notebooks in order:
+
+   * Data Cleaning
+   * Exploratory Data Analysis (EDA)
+
+5. Import the cleaned dataset into MySQL and execute the SQL queries.
+
+6. Open the Power BI dashboard (`.pbix`) to explore the interactive visualizations.
+
+---
+
+## Future Improvements
+
+* Build predictive machine learning models.
+* Automate the data pipeline.
+* Connect Power BI to a live database.
+
+
+---
+
+## Author
+
+**Vishwanath**
+
+
+---
+
+## License
 
 This project is intended for educational and portfolio purposes.
+
+
 
