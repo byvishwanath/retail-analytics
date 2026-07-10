@@ -39,6 +39,8 @@ Developed an interactive dashboard to visualize:
 retail-analytics/
 │
 ├── Dataset/
+│   ├── customer_shopping_behavior.csv
+│
 ├── Python/
 │   ├── customer_Analysis.ipynb
 │   
