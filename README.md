@@ -72,10 +72,7 @@ git clone https://github.com/byvishwanath/retail-analytics.git
 pip install pandas 
 ```
 
-4. Run the notebooks in order:
-
-   * Data Cleaning
-   * Exploratory Data Analysis (EDA)
+4. Run the notebook
 
 5. Import the cleaned dataset into MySQL and execute the SQL queries.
 
