@@ -94,7 +94,7 @@ pip install pandas
 
 ## Author
 
-**Vishwanath**
+**Vishwanath Bavandla**
 
 
 ---
